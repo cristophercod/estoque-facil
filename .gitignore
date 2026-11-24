@@ -1,0 +1,12 @@
+# Banco de dados local (criado automaticamente na execução)
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor / sistema
+.vscode/
+.DS_Store
